@@ -47,6 +47,6 @@ Thank you for using the ATM!
 * Menu-driven program
 * Balance inquiry
 * Deposit and withdrawal operations
-* Simple and user-friendly interfac
+* Simple and user-friendly interface
 
 
