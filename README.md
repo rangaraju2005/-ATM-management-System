@@ -50,4 +50,3 @@ Thank you for using the ATM!
 * Simple and user-friendly interfac
 
 
-Contributions are welcome! Fork the repository and submit a pu
