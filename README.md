@@ -18,12 +18,6 @@ This project demonstrates real-world banking logic in a simple and easy-to-under
 
 * Python
 * Jupyter Notebook
-
-## 📂 Files in This Repository
-
-```
-Atm Managment System.ipynb   # Main project notebook
-README.md                   # Project documentation
 ```
 
 example 
